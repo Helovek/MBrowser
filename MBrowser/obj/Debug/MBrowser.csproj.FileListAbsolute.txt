@@ -1,0 +1,10 @@
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\bin\Debug\MBrowser.exe.config
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\bin\Debug\MBrowser.exe
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\bin\Debug\MBrowser.pdb
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.csprojAssemblyReference.cache
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.Properties.Resources.resources
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.csproj.GenerateResource.cache
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.exe
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.pdb
+C:\Users\Поздняков\Desktop\хорошееечно\Programmig\C#\MBrowser\MBrowser\obj\Debug\MBrowser.MBrowser.resources
